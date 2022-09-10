@@ -128,3 +128,7 @@ li{
     display: flex;
     flex-direction: column;
 }
+
+.foto-circle{
+    border-radius: 50%;
+}
