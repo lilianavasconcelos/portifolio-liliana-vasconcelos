@@ -34,6 +34,11 @@ li {
     color: grey;
 }
 
+.lista-local{
+    text-decoration: none;
+    color:rgb(77, 4, 129)
+}
+
 .lista-menu{
     display: flex;
     justify-content: space-evenly; 
